@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <input class="shuru" placeholder="请输入快递单号"/>
+  <button type="primary" bindtap="btnClick">查询</button>
+</view>
